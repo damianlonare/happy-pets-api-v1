@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="394d8df5-1cb0-48e1-b0cf-e4e3124c7c4e" name="Default Changelist" comment="" />
+    <list default="true" id="394d8df5-1cb0-48e1-b0cf-e4e3124c7c4e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/PetController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/PetController.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +31,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="php" value="5066" />
+          <entry key="php" value="5105" />
           <entry key="yml" value="144" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="5066" />
+          <entry key="PHP" value="5105" />
           <entry key="PLAIN_TEXT" value="9" />
           <entry key="YAML" value="144" />
         </counts>
@@ -78,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/PetController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1725">
-              <caret line="115" column="34" selection-start-line="115" selection-start-column="34" selection-end-line="115" selection-end-column="34" />
+            <state relative-caret-position="121">
+              <caret line="63" column="33" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
               <folding>
                 <element signature="e#40#100#0#PHP" expanded="true" />
               </folding>
@@ -95,7 +98,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/happy-pets-api-v1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -186,36 +189,6 @@
               <item name="happy-pets" type="b2602c69:ProjectViewProjectNode" />
               <item name="happy-pets" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="happy-pets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="happy-pets" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="happy-pets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="happy-pets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="happy-pets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="happy-pets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="happy-pets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="happy-pets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="happy-pets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="happy-pets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
-              <item name="Entity" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -256,12 +229,12 @@
       <workItem from="1536874027188" duration="5000" />
       <workItem from="1536874055864" duration="4216000" />
       <workItem from="1536934748072" duration="9179000" />
-      <workItem from="1537161023033" duration="12502000" />
+      <workItem from="1537161023033" duration="13171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31115000" />
+    <option name="totallyTimeSpent" value="31784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -369,8 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/PetController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="115" column="34" selection-start-line="115" selection-start-column="34" selection-end-line="115" selection-end-column="34" />
+        <state relative-caret-position="121">
+          <caret line="63" column="33" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
           <folding>
             <element signature="e#40#100#0#PHP" expanded="true" />
           </folding>

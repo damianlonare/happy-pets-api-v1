@@ -95,20 +95,18 @@ class PetController extends Controller
     }
 
     /**
-     * @Route("/api/v1/pet/delete")
+     * @Route("/api/v1/pet/delete/{petId}")
      * @Method("DELETE")
      */
-    public function deletePetAction(Request $request)
+    public function deletePetAction($petId)
     {
-        $client_data = json_decode($request->getContent());
-
         $pet = $this->getDoctrine()
             ->getRepository(Pet::class)
-            ->find($client_data->petId);
+            ->find($petId);
 
         if(!$pet) {
             throw $this->createNotFoundException(
-                'No pet found for id '.$client_data->petId
+                'No pet found for id '.$petId
             );
         }
 
